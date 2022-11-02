@@ -3,8 +3,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberghost2023&label=Profile%20views&color=0e75b6&style=flat" alt="cyberghost2023" /> </p> -->
 
-- 🌱 I’m currently into **Flutter and Nodejs**
-- 📄 My Resume [https://drive.google.com/file/d/1f1kxC8IRdo-XgOqmAQhVem3NR9EadbGg/view?usp=sharing](https://drive.google.com/file/d/1f1kxC8IRdo-XgOqmAQhVem3NR9EadbGg/view?usp=sharing)
+- 🌱 I’m currently into **React.js and Node.js**
+- 📄 My Resume [https://drive.google.com/file/d/1Bwf0xMBklKeURqAT-R8dT4enA3vcZLRr/view?usp=share_link](https://drive.google.com/file/d/1Bwf0xMBklKeURqAT-R8dT4enA3vcZLRr/view?usp=share_link)
 
 #### Languages and tools:
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
